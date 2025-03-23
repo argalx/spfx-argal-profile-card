@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "argal-profile-card-client-side-solution",
+    "id": "d10774c7-c5db-44aa-9a2f-2a6ba01c7c43",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "argal-profile-card description"
+      },
+      "longDescription": {
+        "default": "argal-profile-card description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "argal-profile-card Feature",
+        "description": "The feature that activates elements of the argal-profile-card solution.",
+        "id": "bbed7e8a-bc88-442d-b81f-188c444624a8",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/argal-profile-card.sppkg"
+  }
+}
