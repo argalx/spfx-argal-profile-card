@@ -4,7 +4,7 @@
 
 SharePoint Webpart that displays static developer profile data. This is developed via SharePoint Framework using React.
 
-src/webparts/argalProfileCard/assets/image.png
+![alt text](src/webparts/argalProfileCard/assets/image.png)
 
 ## Used SharePoint Framework Version
 
@@ -48,13 +48,13 @@ src/webparts/argalProfileCard/assets/image.png
 - ArgalProfileCard (Base Component)
 
   - Avatar
-    src/webparts/argalProfileCard/assets/image4.png
+    ![alt text](src/webparts/argalProfileCard/assets/image4.png)
   - Intro
-    src/webparts/argalProfileCard/assets/image-1.png
+    ![alt text](src/webparts/argalProfileCard/assets/image-1.png)
   - Skillset
-    src/webparts/argalProfileCard/assets/image-2.png
+    ![alt text](src/webparts/argalProfileCard/assets/image-2.png)
     - Skill
-      src/webparts/argalProfileCard/assets/image-3.png
+      ![alt text](src/webparts/argalProfileCard/assets/image-3.png)
 
 ## References
 
