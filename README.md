@@ -27,7 +27,7 @@ SharePoint Webpart that displays static developer profile data. This is develope
 
 | Version | Date           | Comments        |
 | ------- | -------------- | --------------- |
-| 1.0     | March 23, 2021 | Initial release |
+| 1.0     | March 23, 2025 | Initial release |
 
 ## Disclaimer
 
@@ -55,6 +55,10 @@ SharePoint Webpart that displays static developer profile data. This is develope
     ![alt text](src/webparts/argalProfileCard/assets/image-2.png)
     - Skill
       ![alt text](src/webparts/argalProfileCard/assets/image-3.png)
+
+## Components Structure
+
+![alt text](src/webparts/argalProfileCard/assets/image5.png)
 
 ## References
 
